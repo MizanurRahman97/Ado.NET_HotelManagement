@@ -1,5 +1,3 @@
-# HotelManagement
-
 # Hotel Management System - ADO.NET Project
 
 ## Overview
